@@ -1,5 +1,5 @@
 # weather-service
-## a basic weather fetching service
+### a basic weather fetching service
 
 
 The `weather-service` folder will contain the following files:
