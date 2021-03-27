@@ -10,7 +10,7 @@ The `weather-service` folder will contain the following files:
 
 
 To run the script immediately, simply execute the bash script `weather` by executing this command in the `weather-service` directory:
--`./weather`
+- `./weather`
 
 
 Upon execution, it will create the file `wttr` in the `weather-service` directory.
